@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Z
+- 👋 Hi, I’m Zulaikha
 - 🌱 I’m currently learning the basics of HTML, CSS and Javascript
 
 <!---
